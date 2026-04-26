@@ -1,13 +1,13 @@
 ---
 name: proclaw-top-design-prompts
-description: 提供世界Top3平面设计提示词工程AI自动化智能体体系，实现全行业无差别覆盖（50+行业），基于用户极简输入（我是谁/要什么/在哪里/做什么）自动完成所有深度思考并生成世界Top3水准的设计提示词；当用户需要为顶级品牌创建具有精神内核、意境、哲学、思想、美学的设计，且只需极简输入时使用
+description: 提供4A平面设计提示词工程AI自动化智能体体系，实现全行业无差别覆盖（50+行业），基于用户极简输入（我是谁/要什么/在哪里/做什么）自动完成所有深度思考并生成4A水准的设计提示词；当用户需要为顶级品牌创建具有精神内核、意境、哲学、思想、美学的设计，且只需极简输入时使用
 author:
   name: ProClaw
   website: www.proclaw.top
   contact: wechat:Mr-zifang
 ---
 
-# ProClaw Top Design Prompts - 世界Top3平面设计提示词工程AI自动化智能体体系
+# ProClaw Top Design Prompts - 4A平面设计提示词工程AI自动化智能体体系
 
 ## 任务目标
 - 本 Skill 用于：为世界顶级品牌构建高质量平面设计提示词，确保视觉输出符合品牌DNA与行业顶级标准
@@ -169,7 +169,7 @@ Resolution: [分辨率]
 - 关键要点：
   - 用户只需说清楚4个问题（我是谁/要什么/在哪里/做什么）
   - AI自动完成所有深度思考（品牌洞察/用户画像/理念/文化/战略/美学/意境）
-  - AI自动生成世界Top3水准的设计提示词
+  - AI自动生成4A水准的设计提示词
   - AI自动触发仰望/渴求/安心/信任等情感反应
   - AI自动驱动用户采取行动（如主动报名）
 
@@ -184,11 +184,11 @@ Resolution: [分辨率]
 - 参考：见 [references/brand-lifecycle.md](references/brand-lifecycle.md)（何时读取：需要管理品牌生命周期（初创/成长/成熟/转型）或设计品牌架构时）
 - 参考：见 [references/design-philosophy.md](references/design-philosophy.md)（何时读取：需要深入理解设计哲学流派、现代设计理论、美学理论基础时）
 - 参考：见 [references/ab-testing.md](references/ab-testing.md)（何时读取：需要进行提示词A/B测试、效果评估、迭代优化时）
-- 参考：见 [references/master-design-principles.md](references/master-design-principles.md)（何时读取：需要深度理解美学底层逻辑（认知神经科学、格式塔心理学、符号学、现象学）、设计底层逻辑（功能-形式-情感）、排版底层逻辑（信息架构、视觉韵律、认知负荷）、设计哲学系统、设计风格矩阵、世界Top 10设计师核心能力时）
+- 参考：见 [references/master-design-principles.md](references/master-design-principles.md)（何时读取：需要深度理解美学底层逻辑（认知神经科学、格式塔心理学、符号学、现象学）、设计底层逻辑（功能-形式-情感）、排版底层逻辑（信息架构、视觉韵律、认知负荷）、设计哲学系统、设计风格矩阵、 世界10大设计师核心能力时）
 - 参考：见 [references/precision-prompt-engineering.md](references/precision-prompt-engineering.md)（何时读取：需要生成精准、有效、专业的提示词，确保AI精准产出顶级设计作品时）
 - 参考：见 [references/brand-strategy-deep-dive.md](references/brand-strategy-deep-dive.md)（何时读取：需要深度洞察品牌定位、目标用户群、品牌理念、品牌文化，将品牌战略深度转化为精准设计时）
 - 参考：见 [references/transcendental-aesthetics.md](references/transcendental-aesthetics.md)（何时读取：需要构建顶级品牌的精神内核、营造意境、传达哲学思想、诗意美学、文化精神、空间时间美学，超越技术参数进入精神表达时）
-- 参考：见 [references/intelligent-design-agent.md](references/intelligent-design-agent.md)（何时读取：需要使用AI自动化设计智能体，基于用户极简输入（我是谁/要什么/在哪里/做什么）自动完成所有深度思考并生成世界Top3水准的设计提示词时）
+- 参考：见 [references/intelligent-design-agent.md](references/intelligent-design-agent.md)（何时读取：需要使用AI自动化设计智能体，基于用户极简输入（我是谁/要什么/在哪里/做什么）自动完成所有深度思考并生成4A水准的设计提示词时）
 - 参考：见 [references/automatic-prompt-generation.md](references/automatic-prompt-generation.md)（何时读取：需要使用自动化提示词生成系统，理解输入解析协议、深度思考算法、提示词生成算法、情感触发算法、输出优化算法时）
 - 参考：见 [references/emotion-triggers.md](references/emotion-triggers.md)（何时读取：需要理解情感触发系统，确保设计能够触发用户的仰望、渴求、安心、信任等情感反应，并驱动用户采取行动时）
 - 参考：见 [references/industry-deep-insights.md](references/industry-deep-insights.md)（何时读取：需要深度洞察任意行业（50+行业）的用户心理、情感触发、审美偏好、信任构建、行动驱动，确保每个行业的设计都能达到顶级水准时）
